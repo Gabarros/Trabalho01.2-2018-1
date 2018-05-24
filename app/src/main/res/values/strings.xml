@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Calculo de Salario</string>
+    <string name="tvcargo">Cargo:</string>
+    <string name="rbgerente">Gerente</string>
+    <string name="rbsupervisor">Supervisor</string>
+    <string name="rbservente">Servente</string>
+    <string name="ethoras">0</string>
+    <string name="etfaltas">0</string>
+    <string name="etfilhos">0</string>
+    <string name="tvhoras">Nº de Horas:</string>
+    <string name="tvfaltas">Nº de Faltas:</string>
+    <string name="tvfilhos">Nº de Filhos:</string>
+    <string name="tvproventos">Proventos:</string>
+    <string name="tvdescontos">Descontos:</string>
+    <string name="tvsalario">Salário Líquido:</string>
+    <string name="tvProvento">R$ 0,00</string>
+    <string name="tvDescontos">R$ 0,00</string>
+    <string name="tvSalario">R$ 0,00</string>
+
 </resources>
