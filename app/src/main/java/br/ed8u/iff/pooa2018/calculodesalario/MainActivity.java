@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
         float inss;
 
         total_horas = horas * ((salario_base/240)*2);
-        total_faltas = (float) (faltas * (salario_base * 0.03));
+        total_faltas = (float) (faltas * (salario_base/30));
         total_filhos = (float) (filhos * (salario_base * 0.03));
 
         proventos = salario_base + total_horas + total_filhos;
